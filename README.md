@@ -46,7 +46,15 @@
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td width="50%">
+      <h3 align="center"><strong>Programming Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RamchelOrtiz">
+          <img align="center" width="470" src=""https://github-readme-stats.vercel.app/api/top-langs/?username=RamchelOrtiz&layout=compact&langs_count=16&theme=tokyonight" alt="L" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/RamchelOrtiz">
