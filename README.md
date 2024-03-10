@@ -1,5 +1,5 @@
 <!--Header Name-->
-# I'm Ramchel! 
+# Hi, I'm Ramchel! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
