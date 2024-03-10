@@ -4,7 +4,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love JavaScript technologies</p>
+<p align="left">I'm studying to be a Full Stack developer with a focus on JavaScript technologies.</p>
 
 -  My name is Ramchel but preferably call me Ram.
 -  I'm currently learning more about web development.
