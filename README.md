@@ -47,14 +47,6 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/RamchelOrtiz/cryptos">
-          <img align="center" width="470" src="" alt="Last Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/RamchelOrtiz">
