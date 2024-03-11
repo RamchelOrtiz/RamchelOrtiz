@@ -18,7 +18,7 @@
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,ts,jquery,mongodb,express,angular,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,js,ts,jquery,mongodb,express,angular,nodejs" />
   </a>
 </p>
 <br />
