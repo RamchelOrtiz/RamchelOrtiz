@@ -9,6 +9,9 @@
 -  My name is Ramchel but preferably call me Ram.
 -  I'm currently learning more about web development.
 -  I’m currently in my second year studying software engineering at ITCR.
+<br />
+<p align="left">Contact Information.</p>
+
 -  You can contact me through the email ram.ortizb@gmail.com or through my Instagram in a more informal way.
 <!--End Intro-->
 ---
