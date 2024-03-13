@@ -17,8 +17,38 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,js,ts,jquery,mongodb,express,angular,nodejs" />
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+    <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+    <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+    <a href="">
+    <img src="https://skillicons.dev/icons?i=jquery" />
+  </a>
+    <a href="[https://skillicons.dev](https://www.mongodb.com/es/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-cr_ps-          all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624320&adgroup=115749715823&cq_cmp=12212624320&gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2BI6pfWytRAoPKxk82YqaHm0jEAMWLE_ZYSyQHbXUBQB4S4qXYsU44aAmf2EALw_wcB)">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+    <a href="https://expressjs.com">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+    <a href="https://angular.io">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 <br />
