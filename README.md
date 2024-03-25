@@ -23,14 +23,14 @@
   <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-    <a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
     <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+      <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
