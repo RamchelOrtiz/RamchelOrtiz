@@ -23,8 +23,8 @@
   <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-    <a href="https://getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -40,6 +40,12 @@
   </a>
     <a href="">
     <img src="https://skillicons.dev/icons?i=jquery" />
+  </a>
+    <a href="https://redux.js.org">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+      <a href="https://reactivex.io">
+      <img src="https://skillicons.dev/icons?i=reactivex" />
   </a>
     <a href="[https://skillicons.dev](https://www.mongodb.com/es/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-cr_ps-          all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624320&adgroup=115749715823&cq_cmp=12212624320&gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2BI6pfWytRAoPKxk82YqaHm0jEAMWLE_ZYSyQHbXUBQB4S4qXYsU44aAmf2EALw_wcB)">
     <img src="https://skillicons.dev/icons?i=mongodb" />
